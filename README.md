@@ -69,7 +69,7 @@ To demonstrate end-to-end dashboarding skills including data cleaning, visualiza
 
 ## 🌐 Live Demo
 
-🔗 [View the Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your-profile/viz/sales-dashboard](https://public.tableau.com/app/profile/harshita.anala/viz/salesperformanceandinsights/Dashboard1))
+🔗 View the Dashboard on Tableau Public: https://public.tableau.com/app/profile/harshita.anala/viz/salesperformanceandinsights/Dashboard1
 
 ---
 
